@@ -1,1 +1,1 @@
-# guano Доработаное
+# https://AntonDasko.github.io/guano/
